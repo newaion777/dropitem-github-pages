@@ -1,16 +1,38 @@
-# GitHub Pages
+# 星界神話掉落
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey @newaion777!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## 歡迎
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- **首先**: 請自行下載Notepad++
+- **下載**: 上方下載名為DropItem文本
+- **說明**: 這是星界神話掉落腳本
+- **上傳**: 如果您需要了解分支、提交和拉取請求，請先閱讀 [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/newaion777/dropitem-github-pages/issues/1)
 
----
+
+### 如何撰寫
+
+ 首先我們先尋找 11192
+ 得出
+ 11192|未鑑定的魚香蒸蛋汁|10||||1|0|||11288|魚香蒸蛋汁|1|70|11336|奶魚甘泉蛋汁|1|28|11384|海洋特調蛋蜜酒|1|2|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ 這串代碼
+ 
+ |11288|魚香蒸蛋汁|1|70| 代表的是 打開未鑑定的魚香蒸蛋汁有70%機率獲得魚香蒸蛋汁
+ 
+ |11336|奶魚甘泉蛋汁|1|28|代表的是 打開未鑑定的魚香蒸蛋汁有28%機率獲得奶魚甘泉蛋汁
+ 
+ |11384|海洋特調蛋蜜酒|1|2|代表的是 打開未鑑定的魚香蒸蛋汁有2%機率獲得海洋特調蛋蜜酒
+ 
+ 將70+28+2總和為100 多一個數字不行少一個數字不行
+ 必須總和為100
+ 現階段公開開放玩家添加修改
+ 套不套用我決定
+ 編輯完成後請自行上傳至本文審核
+ 並告知修改了哪部分
+
+
+
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
